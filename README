@@ -1,0 +1,7 @@
+Console for riak.
+
+So far:
+
+- list buckets
+- list keys
+- number of keys in bucket
